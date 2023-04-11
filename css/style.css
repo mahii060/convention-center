@@ -1,0 +1,15 @@
+.banner-image {
+    background-image: url(../images/banner-2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.form-check-rounded {
+    border-radius: 50%;
+}
+
+.my-custom-rounded-div {
+    border-radius: 1.5rem;
+}
